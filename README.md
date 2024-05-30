@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on pluggable type system, type inference, lightweight formal methods and programming languages.
+- 🔭 I’m currently working on optional type system, type inference, formal methods and programming languages.
 - 👯 I’m looking to collaborate on type system, static analysis and developer tools.
 - 📫 How to reach me: aosen.xiong@uwaterloo.ca
 - 😄 Pronouns: He/They
